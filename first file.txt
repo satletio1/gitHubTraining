@@ -3,3 +3,5 @@ changes in a file
 changes in 2nd branch
 
 blablablabla
+
+another change in file
