@@ -1,3 +1,10 @@
 changes in a file
 
+<<<<<<< HEAD
+=======
+changes in 2nd branch
+
+blablablabla
+
+>>>>>>> second-branch
 another change in file
