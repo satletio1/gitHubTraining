@@ -1,7 +1,10 @@
 changes in a file
 
+<<<<<<< HEAD
 changes in 2nd branch
 
 blablablabla
 
+=======
+>>>>>>> 535f4c1 (another change in file)
 another change in file
